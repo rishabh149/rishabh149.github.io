@@ -1,0 +1,28 @@
+body{
+	background-color:powderblue;
+	background-image:url('2.jfif');
+}
+div.goo{
+	background-color:lightgrey;
+	color: white;
+	}
+div.got{
+	background-color: azure;
+	color: black;
+	
+	}
+	
+section.ect{
+	background-color: honeydew;
+	color: ;
+}
+
+section.sec{
+	background-color: pink;
+	color: navy;
+}
+
+section.ion{
+	background-color: silver;
+	color: peru;
+}
