@@ -2094,7 +2094,7 @@
       <div class="">
         <textarea class="form-control file-editor-textarea js-blob-contents js-code-textarea " rows="35" name="value" data-filename="r.css" data-codemirror-mode="text/css" data-allow-unchanged="" placeholder="Enter file contents here" aria-label="Enter file contents here" spellcheck="false" autofocus="">body{
 	background-color:powderblue;
-	background-image:url('2.jfif');
+	background-image:url('images/2.jfif');
 }
 div.goo{
 	background-color:lightgrey;
